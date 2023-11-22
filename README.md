@@ -11,3 +11,10 @@
   * Large size of the set should be upper than 30, lower than 60
 # use unplash
 # typography
+# color pallete generator
+  link - https://coolors.co/
+# color accessibility checker
+  link - https://webaim.org/resources/contrastchecker/
+# undraw use to get illustrator icons, images 
+  link - https://undraw.co/
+
