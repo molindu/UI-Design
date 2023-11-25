@@ -13,6 +13,7 @@
 # typography
 # color pallete generator
   link - https://coolors.co/
+  link - https://mycolor.space/
 # color accessibility checker
   link - https://webaim.org/resources/contrastchecker/
 # undraw use to get illustrator icons, images 
