@@ -18,4 +18,9 @@
   link - https://webaim.org/resources/contrastchecker/
 # undraw use to get illustrator icons, images 
   link - https://undraw.co/
+# ui component vertical and horizontal space (8 or 16)
+# create component with auto layout
+# button height 40, 56, 64
+
+# upper space with content should equal to content bottom to screen bottom space 
 
