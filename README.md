@@ -20,7 +20,7 @@
   link - https://undraw.co/
 # ui component vertical and horizontal space (8 or 16)
 # create component with auto layout
-# button height 40, 56, 64
+# button height 40, 56, 64 , radius 4, 8, 12
 
 # upper space with content should equal to content bottom to screen bottom space 
 
