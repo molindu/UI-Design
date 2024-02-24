@@ -35,6 +35,24 @@
 # Refer Link - 
 [![Component Create](https://img.youtube.com/vi/v=sU-xp2V7-_A/default.jpg)](https://www.youtube.com/watch?v=sU-xp2V7-_A)
 
+# components varient names
+* **Button**
+```txt
+* Primary Button: The main action button in a design, often used for primary actions such as "Submit" or "Save".
+
+* Secondary Button: A button used for secondary actions or as an alternative to the primary button.
+
+* Outlined Button: A button with an outline and no fill color, often used for less prominent actions.
+
+* Text Button: A button that looks like regular text but behaves like a button when clicked.
+
+* Icon Button: A button that contains only an icon, used for compact interfaces or where space is limited.
+
+* Disabled Button: A button that is disabled and cannot be clicked, often used to indicate that an action is unavailable.
+
+* Loading Button: A button that shows a loading indicator when clicked, used to indicate that an action is in progress.
+```
+
 # color pallete generator
   link - https://coolors.co/
   link - https://mycolor.space/
