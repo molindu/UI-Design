@@ -67,6 +67,13 @@
 # upper space with content should equal to content bottom to screen bottom space 
 
 # UI Design Principles
-```html
-<span style="color: red;">text</span> 
+
+* 60% 30% 10% theory of color theme
+# C.R.A.P Principle
+```txt
+* Contrast
+* Repetition
+* Alignment
+* Proximity
+
 ```
