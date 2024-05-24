@@ -105,9 +105,34 @@
 * red - danger
 * Blue - nutral information
 ```
-
+ 
 * brand colors are **saturated**
 * supporting colors - **desaturated**  
 * Dark color of color used to text
   
 # Go to uxtools.co/shop/color
+
+# Tone can create by adding gray
+
+# Color Theory
+
+<img src="https://github.com/molindu/UI-Design/blob/main/primary.png" width=100/>
+<img src="https://github.com/molindu/UI-Design/blob/main/secondary.png" width=100/>
+<img src="https://github.com/molindu/UI-Design/blob/main/tertary.png" width=100/>
+<img src="https://github.com/molindu/UI-Design/blob/main/warm_cool.png" width=200/>
+<img src="https://github.com/molindu/UI-Design/blob/main/warm_cool01.png" width=200/>
+
+<img src="https://github.com/molindu/UI-Design/blob/main/Image_06.png" width=300/>
+<img src="https://github.com/molindu/UI-Design/blob/main/Image_07.png" width=300/>
+<img src="https://github.com/molindu/UI-Design/blob/main/Image_08.png" width=300/>
+<img src="https://github.com/molindu/UI-Design/blob/main/Image_09.png" width=300/>
+<img src="https://github.com/molindu/UI-Design/blob/main/Image_10.png" width=300/>
+<img src="https://github.com/molindu/UI-Design/blob/main/Image_11.png" width=300/>
+<img src="https://github.com/molindu/UI-Design/blob/main/Image_12.png" width=300/>
+<img src="https://github.com/molindu/UI-Design/blob/main/Image_13.png" width=300/>
+<img src="https://github.com/molindu/UI-Design/blob/main/Image_14.png" width=500/>
+<img src="https://github.com/molindu/UI-Design/blob/main/Image_15.png" width=500/>
+<img src="https://github.com/molindu/UI-Design/blob/main/Image_16.png" width=500/>
+
+
+
