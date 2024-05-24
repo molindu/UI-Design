@@ -71,9 +71,38 @@
 * 60% 30% 10% theory of color theme
 # C.R.A.P Principle
 ```txt
-* Contrast
-* Repetition
-* Alignment
-* Proximity
+* Contrast - organize your design, establish hierarchy, emphasizes the focal point, adds visual interest. 
+* Repetition - Creates consistency, increases users learnability, reduce confusion.
+* Alignment - Organize and groups elements, creates rhythm, brings order to chaos.
+* Proximity - Makes elements seem related, brings understanding and meaning. 
 
 ```
+# Color category
+
+```txt
+1. Brand Colors - buttons, links, navigations, Icons
+2. Supporting Colors - error massages, conformations informational dialog
+3. Neutral - some kind of gray - texts, backgrounds, border colors, secondary buttons
+```
+
+* huemint.com 
+* colorhunt.com
+
+# use HSB color 
+
+**H** - hue (1 - 365)
+**S** - saturation (0 - 200)
+**B** - brightness how much black or white adding to (0 - 200)
+
+```txt
+* Green - success
+* orange/yellow - warning 
+* red - danger
+* Blue - nutral information
+```
+
+* brand colors are **saturated**
+* supporting colors - **desaturated**  
+* Dark color of color used to text
+  
+# Go to uxtools.co/shop/color
