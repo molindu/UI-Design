@@ -94,6 +94,11 @@
 **S** - saturation (0 - 200)
 **B** - brightness how much **black** or **white** adding to (0 - 200)
 
+<img src="https://github.com/molindu/UI-Design/blob/main/Image_02.png" width=800/>
+<img src="https://github.com/molindu/UI-Design/blob/main/Image_03.png" width=800/>
+<img src="https://github.com/molindu/UI-Design/blob/main/Image_04.png" width=800/>
+<img src="https://github.com/molindu/UI-Design/blob/main/Image_05.png" width=800/>
+
 ```txt
 * Green - success
 * orange/yellow - warning 
