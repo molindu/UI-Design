@@ -92,7 +92,7 @@
 
 **H** - hue (1 - 365)
 **S** - saturation (0 - 200)
-**B** - brightness how much black or white adding to (0 - 200)
+**B** - brightness how much **black** or **white** adding to (0 - 200)
 
 ```txt
 * Green - success
