@@ -134,5 +134,21 @@
 <img src="https://github.com/molindu/UI-Design/blob/main/Image_15.png" width=500/>
 <img src="https://github.com/molindu/UI-Design/blob/main/Image_16.png" width=500/>
 
+# Important Sites 
+
+* toptal.com/designers/gui/
+* bonfx.com/five-principles-of-design/
+* scrimba.com/g/gdesign
+
+# Core UI principle
+
+<img src="https://github.com/molindu/UI-Design/blob/main/core.png" width=600/>
+
+# Manage White Space
+
+<img src="https://github.com/molindu/UI-Design/blob/main/micro_macro.png" width=600/>
+<img src="https://github.com/molindu/UI-Design/blob/main/benefits.png" width=600/>
+<img src="https://github.com/molindu/UI-Design/blob/main/micro_macro_defer.png" width=600/>
+
 
 
