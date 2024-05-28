@@ -171,4 +171,6 @@
 * colorhunt.co
 * colordrop.io
 
+<img src="https://github.com/molindu/UI-Design/blob/main/contrast.png" width=600/>
+<img src="https://github.com/molindu/UI-Design/blob/main/contrast_issue.png" width=600/>
 
