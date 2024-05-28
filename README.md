@@ -150,5 +150,25 @@
 <img src="https://github.com/molindu/UI-Design/blob/main/benefits.png" width=600/>
 <img src="https://github.com/molindu/UI-Design/blob/main/micro_macro_defer.png" width=600/>
 
+# Element of Colors
+
+<img src="https://github.com/molindu/UI-Design/blob/main/elements.png" width=600/>
+<img src="https://github.com/molindu/UI-Design/blob/main/elements01.png" width=600/>
+<img src="https://github.com/molindu/UI-Design/blob/main/colors.png" width=600/>
+<img src="https://github.com/molindu/UI-Design/blob/main/ratio_rule.png" width=600/>
+<img src="https://github.com/molindu/UI-Design/blob/main/ratio.png" width=600/>
+<img src="https://github.com/molindu/UI-Design/blob/main/ratio.png" width=600/>
+<img src="https://github.com/molindu/UI-Design/blob/main/color_rule.png" width=600/>
+<img src="https://github.com/molindu/UI-Design/blob/main/choose_color.png" width=600/>
+<img src="https://github.com/molindu/UI-Design/blob/main/color_scheme.png" width=600/>
+<img src="https://github.com/molindu/UI-Design/blob/main/scheme01.png" width=600/>
+<img src="https://github.com/molindu/UI-Design/blob/main/scheme02.png" width=600/>
+<img src="https://github.com/molindu/UI-Design/blob/main/scheme03.png" width=600/>
+
+# color sites 
+
+* coolers.co
+* colorhunt.co
+* colordrop.io
 
 
