@@ -201,3 +201,18 @@
 <img src="https://github.com/molindu/UI-Design/blob/main/alignment03.png" width=900/>
 <img src="https://github.com/molindu/UI-Design/blob/main/alignment04.png" width=900/>
 <img src="https://github.com/molindu/UI-Design/blob/main/alignment05.png" width=900/>
+
+# Benefits 
+
+* Organization / Structure
+* consistency
+* Improves Usability
+
+# Challenges
+
+* Variablity
+* Scalling up/down to each screen size
+
+<img src="https://github.com/molindu/UI-Design/blob/main/bonus_tips.png" width=900/>
+
+  
