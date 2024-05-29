@@ -179,3 +179,18 @@
 <img src="https://github.com/molindu/UI-Design/blob/main/contrast_resource.png" width=900/>
 <img src="https://github.com/molindu/UI-Design/blob/main/links.png" width=900/>
 
+# Benefits of Scale
+
+* Consistency across views/ devices
+* Creates Visual Hierachy - Easier for the user to focus on what is most important
+* Scientific and easy to follow
+* Gives design a sense of balance, harmany and symmetry.
+* Being consistent takes discipline and a high levels of focus.
+* you really need to understand the product or design that you are creating in order to makes it useful.
+* Without a design system in place, it is nearly impossible to scale across a team.
+  
+<img src="https://github.com/molindu/UI-Design/blob/main/grid-system.png" width=900/>
+<img src="https://github.com/molindu/UI-Design/blob/main/design_pattern.png" width=900/>
+<img src="https://github.com/molindu/UI-Design/blob/main/apply_ratio.png" width=900/>
+<img src="https://github.com/molindu/UI-Design/blob/main/user_testing.png" width=900/>
+
