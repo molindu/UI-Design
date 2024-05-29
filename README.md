@@ -213,6 +213,6 @@
 * Variablity
 * Scalling up/down to each screen size
 
-<img src="https://github.com/molindu/UI-Design/blob/main/bonus_tips.png" width=900/>
+<img src="https://github.com/molindu/UI-Design/blob/main/bonus_tip.png" width=900/>
 
   
