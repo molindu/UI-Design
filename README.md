@@ -194,3 +194,10 @@
 <img src="https://github.com/molindu/UI-Design/blob/main/apply_ratio.png" width=900/>
 <img src="https://github.com/molindu/UI-Design/blob/main/user_testing.png" width=900/>
 
+# ALignment 
+
+<img src="https://github.com/molindu/UI-Design/blob/main/alignment.png" width=900/>
+<img src="https://github.com/molindu/UI-Design/blob/main/alignment02.png" width=900/>
+<img src="https://github.com/molindu/UI-Design/blob/main/alignment03.png" width=900/>
+<img src="https://github.com/molindu/UI-Design/blob/main/alignment04.png" width=900/>
+<img src="https://github.com/molindu/UI-Design/blob/main/alignment05.png" width=900/>
