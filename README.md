@@ -1,4 +1,9 @@
 # UI-Design
+# create color theme - IMPORTANT
+
+*https://www.realtimecolors.com/?colors=050315-fbfbfe-2D60DC-dedcff-433bff&fonts=Inter-Inter
+
+
 # App theme colors
   * dark color -> transparency 50% -> secondary color <br>
   * secondary color may be white/ ash / primary * 25% <br>
